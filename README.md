@@ -26,6 +26,7 @@ Created interactive visualizations and statistical summaries using Matplotlib an
 Enabled data export to JSON format for easy integration with other tools and systems.
 
 📊 GitHub Stats
+
 [![Ian’s github stats](https://github-readme-stats.vercel.app/api?username=iswoody2)](https://github.com/iswoody2)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iswoody2&layout=compact)](https://github.com/iswoody)
