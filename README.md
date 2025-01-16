@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 I'm a former law student turned MSc Computer Science student, combining a passion for critical thinking and problem-solving with cutting-edge technology. My goal is to explore exciting opportunities in software engineering, data analysis, AI engineering, or data engineering.
 
 🧑‍💻 About Me
-🔭 I’m currently building projects in Python, JavaScript, and web development.
+🔭 I’m currently building projects in Python, HTML, CSS and JavaScript.
 🌱 I’m continuously learning and exploring topics like machine learning, data pipelines, and visualization tools.
 🎯 My aim is to contribute to impactful projects and work at the intersection of data and technology.
 
@@ -17,7 +17,7 @@ Integrated social media and multimedia to enhance audience engagement.
 Designed a user-friendly, branded interface optimized for all devices.
 
 🛰️ Space Object Analysis
-Analyzed historical trends and timelines of space objects using NumPy, Pandas, Matplotlib, and Seaborn.
+Analysed historical trends and timelines of space objects using NumPy, Pandas, Matplotlib, and Seaborn.
 Developed pipelines to clean data, extract insights, and highlight region-specific patterns.
 
 🧹 Data Cleaning Tool
