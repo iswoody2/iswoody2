@@ -56,6 +56,12 @@ Hobbies: ["Crossfit", "Climbing", "Guitar"]
 
 ```
 
+
+![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=iswoody2&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iswoody2&layout=donut-vertical)](https://github.com/iswoody2/github-readme-stats)
+
+
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="45" height="45"/>
@@ -94,6 +100,7 @@ alt="Scikitlearn" width="45" height="45"/>
 alt="Tensorflow" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 alt="Vscode" width="45" height="45"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&theme=gruvbox&height=100&section=footer"/>
