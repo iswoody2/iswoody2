@@ -3,10 +3,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&theme=gruvbox&text=Howdy!&height=100&section=header"/>
 </p>
 
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
-
 <p align = "center">
 <a href="https://www.linkedin.com/in/ian-wood-4b06111a1/">
 <img height = "50 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
@@ -14,6 +10,10 @@
 <a href="https://ianhunterwood.com/">
 <img height = "50" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-1024.png"/> </a>
 </p>
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 
 <p align="center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVkY2E0aGRoZXJ6Mm1kamo5cDFnbWNzdHQ4djVjNjNpanJpbm5kMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PTsvWs7hWigkU/giphy.gif" />
