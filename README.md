@@ -1,6 +1,11 @@
 
 <p align = "center"
-<img src="https://capsule-render.vercel.app/api?test=Howdy All!🌵type=Rounded&theme=swift&height=100"/></p>
+<img src="https://capsule-render.vercel.app/api?test=Howdy All!🌵type=waving&theme=swift&height=100&section=header"/>
+</p>
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 
 <a href="https://www.linkedin.com/in/ian-wood-4b06111a1/">
 <img height = "50 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
@@ -8,7 +13,7 @@
 <a href="https://ianhunterwood.com/">
 <img height = "50" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-1024.png"/> </a>
 
-<iframe src="https://giphy.com/embed/HjeIqm3MxURFK" width="480" height="202" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/movie-star-wars-han-solo-HjeIqm3MxURFK">via GIPHY</a></p>
+<img src="https://giphy.com/embed/HjeIqm3MxURFK" width="480" height="202" style="" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 ```yaml
 
@@ -83,9 +88,9 @@ alt="Tensorflow" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 alt="Vscode" width="45" height="45"/>
 
-[![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=iswoody2&theme=swift)](https://github.com/iswoody2/github-readme-stats)
-
-![Snake animation](https://github.com/iswoody2/iswoody2/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&theme=swift&height=100&section=footer"/>
+</p>
           
           
           
