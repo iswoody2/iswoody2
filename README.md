@@ -19,7 +19,7 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVkY2E0aGRoZXJ6Mm1kamo5cDFnbWNzdHQ4djVjNjNpanJpbm5kMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PTsvWs7hWigkU/giphy.gif" />
 </p>
 
-<h2> &nbdp;A Bit About Me and My Interests </h2>
+<h2> 🚀 &nbsp;A Bit About Me and My Interests </h2>
 
   
 ```yaml
