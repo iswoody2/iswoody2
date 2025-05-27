@@ -16,7 +16,7 @@
 <a href="https://ianhunterwood.com/">
 <img height = "50" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-1024.png"/> </a>
 
-<div style="width:100%;height:0;padding-bottom:42%;position:relative;"><iframe src="https://giphy.com/embed/xTiTnhFwjZHC8Ynrzi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/star-wars-the-force-awakens-vii-xTiTnhFwjZHC8Ynrzi">via GIPHY</a></p>
+<img src="https://giphy.com/embed/xTiTnhFwjZHC8Ynrzi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 ```yaml
 
