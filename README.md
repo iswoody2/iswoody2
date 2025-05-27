@@ -1,8 +1,4 @@
 
-<p align = "center"
-<img src="https://capsule-render.vercel.app/api?test=Howdy All!🌵&animation=fadeIn&type=waving&theme=swift&height=100&section=header"/>
-</p>
-
 <p align = "center">
 <a href="https://www.linkedin.com/in/ian-wood-4b06111a1/">
 <img height = "50 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
@@ -95,7 +91,10 @@ alt="Vscode" width="45" height="45"/>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&theme=swift&height=100&section=footer"/>
 </p>
-          
+
+<p align = "center"
+<img src="https://capsule-render.vercel.app/api?test=Howdy All!🌵&animation=fadeIn&type=waving&theme=swift&height=100&section=header"/>
+</p>
           
           
           
