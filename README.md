@@ -1,6 +1,6 @@
 
 <p align = "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&theme=merko&text=Howdy!&height=100&section=header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&theme=gruvbox&text=Howdy!&height=100&section=header"/>
 </p>
 
 <h1 align="center">
@@ -96,7 +96,7 @@ alt="Tensorflow" width="45" height="45"/>
 alt="Vscode" width="45" height="45"/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&theme=merko&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&theme=gruvbox&height=100&section=footer"/>
 </p>
 
           
