@@ -1,11 +1,14 @@
 
 <p align = "center"
 <img src="https://capsule-render.vercel.app/api?test=Howdy All!🌵type=waving&theme=swift&height=100&section=header"/>
+
+
 </p>
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
+
 
 <a href="https://www.linkedin.com/in/ian-wood-4b06111a1/">
 <img height = "50 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
@@ -13,7 +16,7 @@
 <a href="https://ianhunterwood.com/">
 <img height = "50" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-1024.png"/> </a>
 
-<img src="https://giphy.com/embed/HjeIqm3MxURFK" width="480" height="202" style="" frameBorder="0" class="giphy-embed" allowFullScreen>
+<div style="width:100%;height:0;padding-bottom:42%;position:relative;"><iframe src="https://giphy.com/embed/xTiTnhFwjZHC8Ynrzi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/star-wars-the-force-awakens-vii-xTiTnhFwjZHC8Ynrzi">via GIPHY</a></p>
 
 ```yaml
 
