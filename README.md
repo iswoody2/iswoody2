@@ -56,10 +56,9 @@ Hobbies: ["Crossfit", "Climbing", "Guitar"]
 
 ```
 
-
+<p align="center">
 ![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=iswoody2&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iswoody2&layout=donut-vertical)](https://github.com/iswoody2/github-readme-stats)
-
+</p>
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
